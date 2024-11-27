@@ -1,2 +1,2 @@
-# timer-app-py
-Timer App in Python
+# Timer App
+Simple timer App in Python
